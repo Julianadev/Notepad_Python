@@ -1,4 +1,4 @@
-# Arquivo Criador e Visualizador de Arquivos
+# NOTEPAD em Python
 
 Este é um projeto simples em Python que permite aos usuários criar arquivos de texto em diferentes formatos e visualizar seu conteúdo.
 
